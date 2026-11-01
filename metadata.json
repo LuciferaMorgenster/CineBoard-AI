@@ -1,0 +1,6 @@
+{
+  "name": "CineBoard - AI Script to Storyboard Studio",
+  "description": "Transform screenplays and scripts into cinematic storyboard sequences with high-resolution image generation, shot breakdown, animatics player, and AI Director chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
