@@ -113,3 +113,18 @@ npm start
 
 ## 📄 License
 Apache-2.0
+
+---
+
+<div align="center">
+
+### 💖 Support CineBoard — AI Script to Storyboard Studio
+
+This project is open-source and built with love.\
+Help keep the project alive and fund its continued development!
+
+**[☕ Donate via PayPal — luciferamorgenster@gmail.com](https://paypal.me/luciferamorgenster)**
+
+Thank you for your support! 🙏
+
+</div>
